@@ -4,7 +4,7 @@ function App() {
   return (
     <>
       <h1>A</h1>
-      <h1>B</h1>
+      <h1>B fixed</h1>
     </>
   );
 }
