@@ -4,6 +4,7 @@ function App() {
   return (
     <>
       <div>Add feat a</div>
+      <div>Add feat b</div>
     </>
   );
 }
