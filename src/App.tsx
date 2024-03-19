@@ -7,6 +7,7 @@ function App() {
       <div>Add feat b</div>
       <div>Add feat c</div>
       <div>fix something</div>
+      <div>add some</div>
     </>
   );
 }
