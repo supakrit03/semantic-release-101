@@ -14,6 +14,7 @@ function App() {
       <div>chore! test</div>
       <div>feat! 2</div>
       <div>feat 3</div>
+      <div>fix 3</div>
     </>
   );
 }
