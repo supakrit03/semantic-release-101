@@ -13,6 +13,7 @@ function App() {
       <div>fix! test</div>
       <div>chore! test</div>
       <div>feat! 2</div>
+      <div>feat 3</div>
     </>
   );
 }
