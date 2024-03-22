@@ -16,6 +16,7 @@ function App() {
       <div>feat 3</div>
       <div>fix 3</div>
       <div>feat! 4</div>
+      <div>feat! 5</div>
     </>
   );
 }
